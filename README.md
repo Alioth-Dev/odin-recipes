@@ -1,2 +1,3 @@
 # odin-recipes
-An Basic Recipes Page for Enhancing Git skills.
+An Basic HTML Recipes Page for Enhancing Git skills.
+It showcases the topics learned so far in The Odin Project [HTML and Git]
